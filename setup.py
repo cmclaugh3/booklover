@@ -7,6 +7,6 @@ setup(
     author='Conor McLaughlin',
     description='Package containing Python Scripts for DS5100 hw09',
     packages=find_packages(),
-    license='MIT
-    install_requires=['pandas >= 1.1.3']
+    license='MIT',
+    install_requires=['pandas >= 0.20.0']
 )
